@@ -2,10 +2,10 @@
 
 ## Etapas do projeto
 
--Projeto Conceitual do Banco de Dados
--Projeto Lógico do Banco de Dados
--Projeto Físico do Banco de Dados
--Dataframes em Python
+Projeto Conceitual do Banco de Dados
+Projeto Lógico do Banco de Dados
+Projeto Físico do Banco de Dados
+Dataframes em Python
 
 ### Etapa 1: Definição do grupo de trabalho e do objeto do projeto
 
